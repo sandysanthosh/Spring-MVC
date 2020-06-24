@@ -15,6 +15,7 @@
           @RequestMapping
           @ModelAttribute
           @PathVariable
+          @autoconfigure
           
 ####  Form tag:
 
